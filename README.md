@@ -6,11 +6,6 @@
 ## AIM:
 To implement ARMA model in python.
 
-# REQUIREMENTS:
-1.DATASET : APPLE STOCK PRICE
-
-2.TECHNOLOGY USED : GOOGLE COLLAB
-
 ## ALGORITHM:
 
 1. Import necessary libraries.
